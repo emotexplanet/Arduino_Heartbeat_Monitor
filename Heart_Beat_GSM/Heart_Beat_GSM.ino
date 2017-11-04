@@ -32,7 +32,7 @@ unsigned short LO_positive = 11;
 unsigned short LO_negative = 12;
 
 
-char phoneNumber[20] = "+234*************56"; //set default number here
+char phoneNumber[20] = "+234*************"; //set default number here
 char replyBuffer[MESSAGE_LENGTH]  = ""; //the reply messages will be store here
 
 
